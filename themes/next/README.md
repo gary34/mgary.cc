@@ -9,6 +9,8 @@ NexT is a high quality elegant [Hexo](http://hexo.io) theme. It is crafted from 
 [![hexo-image]][hexo-url]
 [![lic-image]](LICENSE)
 
+
+
 * [Chinese Documentation](README.cn.md)
 
 ## Live Preview
